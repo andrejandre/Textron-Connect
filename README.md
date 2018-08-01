@@ -5,29 +5,29 @@ Ultimately, several presentations were prepared for corporate headquarters and i
 
 ![alt text](https://github.com/andrejandre/TextronConnect-MasterProject/blob/master/Intern%20Home-Screen.png)
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/andrejandre/TextronConnect-MasterProject/blob/master/Intern%20Checklist.png)
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/andrejandre/TextronConnect-MasterProject/blob/master/Intern%20Checklist%20Popup.png)
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/andrejandre/TextronConnect-MasterProject/blob/master/HR%20Checklist.png)
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/andrejandre/TextronConnect-MasterProject/blob/master/Intern%20Announcements.png)
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/andrejandre/TextronConnect-MasterProject/blob/master/HR%20Announcements.png)
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/andrejandre/TextronConnect-MasterProject/blob/master/Housing%20Menu.png)
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/andrejandre/TextronConnect-MasterProject/blob/master/Events%20Screen.png)
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/andrejandre/TextronConnect-MasterProject/blob/master/About%20Textron%20Screen.png)
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/andrejandre/TextronConnect-MasterProject/blob/master/Map%20Screen.png)
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/andrejandre/TextronConnect-MasterProject/blob/master/Profile%20Screen.png)
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/andrejandre/TextronConnect-MasterProject/blob/master/Roommate%20Finder.png)
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/andrejandre/TextronConnect-MasterProject/blob/master/Stock%20Ticker.png)
 
 ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
